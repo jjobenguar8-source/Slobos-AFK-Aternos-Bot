@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "STABLEJO..aternos.me",
+    "ip": "STABLEJO.aternos.me",
     "port": 53000,
     "version": "",
     "try-creative": false
