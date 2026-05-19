@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "STABLEJO.aternos.me",
-    "port": 53000,
+    "ip": "Galactical-SMP.aternos.me",
+    "port": 44505,
     "version": "1.21.4",
     "try-creative": false
   },
